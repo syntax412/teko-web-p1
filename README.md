@@ -4,6 +4,11 @@ Willkommen zum offiziellen Repository der Webseite von **Jake's Cigar Bar**. Die
 
 ---
 
+## Online Version
+Besuche die Website: [Jake's Cigar Bar](https://teko.qqp.ch)
+
+---
+
 ## Verzeichnisstruktur
 
 Die wichtigsten Dateien und Ordner der Website:
